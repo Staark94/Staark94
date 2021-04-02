@@ -19,6 +19,6 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 ----
-Credit: [thompsonemerson](https://github.com/staark94)
+Credit: [Staark94](https://github.com/staark94)
 
 Last Edited on: 2/04/2021
