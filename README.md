@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-<!--
-**Staark94/Staark94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import SoftwareDeveloper from 'staark94';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper {
+  name     = 'Costin Ionut';
+  title    = 'Software Developer';
+  company  = 'EF Group Limiterd | Remote';
+  location = 'Romania, RO';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP', 'CSS'];
+  databases  = ['MySQL', 'PDO', 'PostgreSQL'];
+  frameworks = ['jQuery', 'VueJS', 'Laravel', 'GraphQL'];
+}
+```
+----
+Credit: [thompsonemerson](https://github.com/staark94)
+
+Last Edited on: 2/04/2021
