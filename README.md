@@ -21,4 +21,7 @@ class Skills extends SoftwareDeveloper {
 ----
 Credit: [Staark94](https://github.com/staark94)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Staark94)
+
+
 Last Edited on: 2/04/2021
